@@ -17,6 +17,8 @@ is being used on top of standard library.
 It should look like this
 gcc -o fracturing fracturing.c -lm
  */ 
+
+ // This is ported from before GitHub Classrooms broke.
 double calculateDistance(){
     // variable initialization for the x-value and y-value of the two user-inputted points respectively.
     double xOne,yOne;
